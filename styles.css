@@ -106,7 +106,10 @@ h1 {
     color:#C271FF;
 }
 
-
+[class^='holberton'] {
+    color: #FFFFFF;
+    font-size: 30px;
+}
 
 /* Small devices (landscape phones, 544px and up) */
 @media (min-width: 544px) {  
