@@ -1,6 +1,8 @@
-In this project, you will implement 3 web pages with Bootstrap. You will use all HTML/CSS/Accessibility/Responsive design/Bootstrap knowledges that you learned previously.
+In this project, I finalized the previous project 0x0B. Implement a design with bootstrap and make some parts dynamic with Javascript.
 
-You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have fully functional web pages that look the same as the designer file.
+This project serves as a culmination of HTML/CSS/Accessibility/Responsive design/Bootstrap/Javascript concepts I have learned so far in the first trimester of specializations at Holberton.
+
+![screenshot](/images/smilingschool1.jpeg)
 
 ## Author
 My name is Ashley Price, I am a Front End Web Developer based in Oklahoma. I currently attend Holberton, and will complete the Full Stack Web Development program in April, 2022. I believe in simply beautiful and functional code, and making tech accessible for all. I enjoy the constant challenge web development provides, and ultimately would love to be part of a team that challenges each other to constantly improve and continue learning. I personally enjoy CSS, Bootstrap, Tailwind, Javascript, Liquid, SASS/SCSS, and Python.
